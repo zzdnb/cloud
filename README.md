@@ -8,7 +8,7 @@
    - **Answer:** In chess, a queen can move any number of squares vertically or horizontally. If two queens are in the same row or column, one could attack the other. The challenge of the problem is to avoid such placements to ensure none of the queens can capture another.
 
 3. **How do we check if two queens are in the same diagonal?**
-   - **Answer:** Two queens are in the same diagonal if the difference between their row indices equals the difference between their column indices. Mathematically, queens at positions ![equation](https://latex.codecogs.com/png.latex?(r_1, c_1)) and ![equation](https://latex.codecogs.com/png.latex?(r_2, c_2)) are in the same diagonal if ![equation](https://latex.codecogs.com/png.latex?|r_1%20-%20r_2|%20=%20|c_1%20-%20c_2|).
+   - **Answer:** Two queens are in the same diagonal if the difference between their row indices equals the difference between their column indices. 
 
 4. **What is backtracking, and how is it used in solving the Eight Queens Problem?**
    - **Answer:** Backtracking is a method of exploring possible configurations of a problem to find a solution. In the Eight Queens Problem, it involves placing a queen in a row and recursively attempting to place the remaining queens in subsequent rows. If a conflict is detected, the algorithm backtracks to the previous row to try a different column for the queen.
