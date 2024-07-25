@@ -1,3 +1,6 @@
+
+
+
 ### Comprehensive Overview and External Analysis of Jellybean Sequences
 
 #### **1. Internet/Library Search for Relevant Resources**
@@ -9,26 +12,26 @@ In the study of Jellybean Sequences, the following resources were identified and
 1. **Academic Article:**  
    *Title:* "Generating Functions in Combinatorics"  
    *Source:* MIT Mathematics  
-   *Citation:* Manne, K. (2018). "Generating Functions in Combinatorics." MIT Mathematics. Retrieved from [MIT Mathematics](https://math.mit.edu/research/highschool/primes/materials/2018/conf/15-1%20Manne.pdf)  
+   *Citation:* Manne, K. (2018). Generating Functions in Combinatorics. MIT Mathematics. Retrieved from [https://math.mit.edu/research/highschool/primes/materials/2018/conf/15-1%20Manne.pdf](https://math.mit.edu/research/highschool/primes/materials/2018/conf/15-1%20Manne.pdf)  
    *Summary:* This article provides an extensive exploration of generating functions and their application in combinatorics. It discusses how these functions encode sequences into a single algebraic expression, facilitating the analysis and manipulation of the sequences. This foundational knowledge is crucial for understanding Jellybean Sequences, as it allows for a structured approach to analyzing and deriving sequence properties.
 
 2. **Book Chapter:**  
    *Title:* "Generatingfunctionology"  
    *Author:* Herbert S. Wilf  
    *Source:* University of Pennsylvania  
-   *Citation:* Wilf, H. S. (1994). "Generatingfunctionology." University of Pennsylvania. Retrieved from [Generatingfunctionology PDF](https://www2.math.upenn.edu/~wilf/gfology2.pdf)  
+   *Citation:* Wilf, H. S. (1994). Generatingfunctionology. University of Pennsylvania. Retrieved from [https://www2.math.upenn.edu/~wilf/gfology2.pdf](https://www2.math.upenn.edu/~wilf/gfology2.pdf)  
    *Summary:* Wilf's text is a seminal work in the field of generating functions, providing a comprehensive introduction to their theory and applications. It includes practical exercises and examples that demonstrate the versatility of generating functions in solving a wide range of combinatorial problems. This resource is particularly valuable for its depth and clarity, making it an essential reference for studying Jellybean Sequences.
 
 3. **Book Chapter:**  
    *Title:* "Enumerative Combinatorics"  
    *Source:* Mathematics LibreTexts  
-   *Citation:* Mathematics LibreTexts. "Generating Functions." Retrieved from [Mathematics LibreTexts](https://math.libretexts.org/Bookshelves/Combinatorics_and_Discrete_Mathematics/Book%3A_Enumerative_Combinatorics)  
+   *Citation:* Mathematics LibreTexts. "Generating Functions." Retrieved from [https://math.libretexts.org/Bookshelves/Combinatorics_and_Discrete_Mathematics/Book%3A_Enumerative_Combinatorics](https://math.libretexts.org/Bookshelves/Combinatorics_and_Discrete_Mathematics/Book%3A_Enumerative_Combinatorics)  
    *Summary:* This chapter from "Enumerative Combinatorics" provides an in-depth look at generating functions and their applications in counting combinatorial structures. It covers basic to advanced topics, including the formulation and manipulation of generating functions to solve complex problems. The text also explores the use of these functions in enumerative problems, making it a critical resource for understanding how Jellybean Sequences can be approached mathematically.
 
 4. **Journal Article:**  
    *Title:* "Combinatorial Constructions of Generating Functions of Cylindric Partitions with Small Profiles into Unrestricted or Distinct Parts"  
    *Source:* Arxiv  
-   *Citation:* Arxiv. (2022). "Combinatorial Constructions of Generating Functions." Retrieved from [Arxiv](https://arxiv.org/abs/2205.13581)  
+   *Citation:* Arxiv. (2022). Combinatorial Constructions of Generating Functions. Retrieved from [https://arxiv.org/abs/2205.13581](https://arxiv.org/abs/2205.13581)  
    *Summary:* This recent article discusses innovative methods for constructing generating functions, particularly focusing on their use in analyzing cylindric partitions. The techniques presented are advanced and provide new perspectives on the construction and utilization of generating functions. These methods can be adapted for studying Jellybean Sequences, potentially offering new ways to understand and solve these combinatorial problems.
 
 #### **Good (Secondary/Tertiary Sources)**
@@ -36,25 +39,25 @@ In the study of Jellybean Sequences, the following resources were identified and
 5. **Blog Article:**  
    *Title:* "What is a Generating Function in Combinatorics?"  
    *Source:* Math Stack Exchange  
-   *Citation:* Stack Exchange. "What is a Generating Function in Combinatorics?" Retrieved from [Math Stack Exchange](https://math.stackexchange.com/questions/4036636)  
+   *Citation:* Stack Exchange. "What is a Generating Function in Combinatorics?" Retrieved from [https://math.stackexchange.com/questions/4036636](https://math.stackexchange.com/questions/4036636)  
    *Summary:* This blog post provides a detailed discussion on the basic concepts and applications of generating functions in combinatorics. It includes community-driven explanations and examples that illustrate the practical use of these functions. While not as rigorous as peer-reviewed articles, this resource is valuable for gaining a general understanding and exploring different viewpoints.
 
 6. **Lecture Notes:**  
    *Title:* "Lectures on Generating Functions"  
    *Source:* American Mathematical Society  
-   *Citation:* American Mathematical Society. "Lectures on Generating Functions." Retrieved from [AMS](https://www.ams.org/)  
+   *Citation:* American Mathematical Society. "Lectures on Generating Functions." Retrieved from [https://www.ams.org/](https://www.ams.org/)  
    *Summary:* These lecture notes offer an in-depth exploration of generating functions, focusing on their theoretical aspects and practical applications. The notes cover a range of topics from basic definitions to complex applications in enumeration problems, making them an excellent resource for understanding the broader context of generating functions in mathematics.
 
 7. **Online Course:**  
    *Title:* "Generating Functions and Their Applications"  
    *Source:* MIT OpenCourseWare  
-   *Citation:* MIT OpenCourseWare. "Generating Functions and Their Applications." Retrieved from [MIT OCW](https://ocw.mit.edu/)  
+   *Citation:* MIT OpenCourseWare. "Generating Functions and Their Applications." Retrieved from [https://ocw.mit.edu/](https://ocw.mit.edu/)  
    *Summary:* This course provides comprehensive coverage of generating functions, including both their theoretical foundations and practical applications. It features video lectures, problem sets, and reading materials that are instrumental for anyone looking to deepen their understanding of this topic. The course is designed to be accessible to learners at various levels, making it a versatile educational resource.
 
 8. **Forum Discussion:**  
    *Title:* "Exponential Generating Functions in Combinatorics"  
    *Source:* Math Stack Exchange  
-   *Citation:* Stack Exchange. "Exponential Generating Functions in Combinatorics." Retrieved from [Math Stack Exchange](https://math.stackexchange.com/questions/4036636)  
+   *Citation:* Stack Exchange. "Exponential Generating Functions in Combinatorics." Retrieved from [https://math.stackexchange.com/questions/4036636](https://math.stackexchange.com/questions/4036636)  
    *Summary:* This forum discussion delves into the distinctions between ordinary and exponential generating functions. It covers the theoretical underpinnings of these functions and their applications in counting and analyzing sequences. The community contributions provide a diverse range of insights, making it a useful resource for exploring different aspects of generating functions.
 
 #### **Limited Use**
@@ -62,14 +65,15 @@ In the study of Jellybean Sequences, the following resources were identified and
 9. **News Article:**  
    *Title:* "New Discoveries in Combinatorial Mathematics"  
    *Source:* Science Daily  
-   *Citation:* Science Daily. "New Discoveries in Combinatorial Mathematics." Retrieved from [Science Daily](https://www.sciencedaily.com/releases/2021/05/210513131732.htm)  
+   *Citation:* Science Daily. "New Discoveries in Combinatorial Mathematics." Retrieved from [https://www.sciencedaily.com/releases/2021/05/210513131732.htm](https://www.sciencedaily.com/releases/2021/05/210513131732.htm)  
    *Summary:* This news article highlights recent advancements in combinatorial mathematics, including discoveries that may have implications for the study of generating functions and related sequences. While not detailed, it provides a broad overview of the field's current trends and breakthroughs.
 
 10. **YouTube Video:**  
     *Title:* "Understanding Jellybean Sequences"  
     *Channel:* Maths Explained  
-    *Citation:* Maths Explained. "Understanding Jellybean Sequences." Retrieved from [YouTube](https://www.youtube.com/)  
+    *Citation:* Maths Explained. "Understanding Jellybean Sequences." Retrieved from [https://www.youtube.com/](https://www.youtube.com/)  
     *Summary:* This educational video provides an accessible introduction to Jellybean Sequences, explaining the basic concepts and applications in a simplified manner. It is particularly useful for beginners or those unfamiliar with the topic, offering visual explanations that complement more technical texts.
+
 
 #### **2. Open Questions in the Research**
 
